@@ -1,0 +1,353 @@
+{
+    "1": {
+        "Title": "Husded and Grim",
+        "Group": "Mastodon",
+        "Genre": "Metal",
+        "Year": 2021,
+        "Distributor": "Mastodon",
+        "SongsCount": 2,
+        "SongsNames": [
+            "Pain with an Anchor",
+            "The Crux"
+        ]
+    },
+    "2": {
+        "Title": "Jubilee",
+        "Group": "Japanese Breakfast",
+        "Genre": "Indie Pop",
+        "Year": 2021,
+        "Distributor": "Dead Oceans",
+        "SongsCount": 10,
+        "SongsNames": [
+            "Paprika",
+            "Be Sweet",
+            "Kokomo",
+            "Slide Tackle",
+            "Posing in Bondage",
+            "Sit",
+            "Savage Good Boy",
+            "In Hell",
+            "Tactics",
+            "Posing for Cars"
+        ]
+    },
+    "3": {
+        "Title": "Chemtrails over the Country Club",
+        "Group": "Lana Del Rey",
+        "Genre": "Art Pop",
+        "Year": 2021,
+        "Distributor": "Interscope Records",
+        "SongsCount": 11,
+        "SongsNames": [
+            "White Dress",
+            "Chemtrails over the Country Club",
+            "Tulsa Jesus Freak",
+            "Let Me Love You Like a Woman",
+            "Wild at Heart",
+            "Dark But Just a Game",
+            "Not All Who Wander Are Lost",
+            "Yosemite",
+            "Breaking Up Slowly",
+            "Dance Till We Die",
+            "For Free"
+        ]
+    },
+    "4": {
+        "Title": "Collapsed in Sunbeams",
+        "Group": "Arlo Parks",
+        "Genre": "Alternative R&B",
+        "Year": 2021,
+        "Distributor": "Transgressive Records",
+        "SongsCount": 12,
+        "SongsNames": [
+            "Collapsed in Sunbeams",
+            "Hurt",
+            "Too Good",
+            "Hope",
+            "Caroline",
+            "Black Dog",
+            "Green Eyes",
+            "Just Go",
+            "For Violet",
+            "Eugene",
+            "Bluish",
+            "Portra 400"
+        ]
+    },
+    "6": {
+        "Title": "The Off-Season",
+        "Group": "J. Cole",
+        "Genre": "Hip-Hop",
+        "Year": 2021,
+        "Distributor": "Dreamville, Roc Nation, Interscope Records",
+        "SongsCount": 12,
+        "SongsNames": [
+            "95 South",
+            "Amari",
+            "My Life",
+            "Applying Pressure",
+            "Punchin' the Clock",
+            "100 mil'",
+            "Pride is the Devil",
+            "Let Go My Hand",
+            "Interlude",
+            "The Climb Back",
+            "Close",
+            "Hunger on Hillside"
+        ]
+    },
+    "7": {
+        "Title": "Daddy's Home",
+        "Group": "St. Vincent",
+        "Genre": "Art Rock",
+        "Year": 2021,
+        "Distributor": "Loma Vista Recordings",
+        "SongsCount": 14,
+        "SongsNames": [
+            "Pay Your Way in Pain",
+            "Down and Out Downtown",
+            "Daddy's Home",
+            "Live in the Dream",
+            "The Melting of the Sun",
+            "The Laughing Man",
+            "Down",
+            "Somebody Like Me",
+            "My Baby Wants a Baby",
+            "...At the Holiday Party",
+            "Candy Darling",
+            "Humming (Interlude 1)",
+            "Humming (Interlude 2)",
+            "Humming (Interlude 3)",
+            "Humming (Interlude 4)"
+        ]
+    },
+    "8": {
+        "Title": "Good News",
+        "Group": "Megan Thee Stallion",
+        "Genre": "Hip-Hop",
+        "Year": 2020,
+        "Distributor": "300 Entertainment",
+        "SongsCount": 17,
+        "SongsNames": [
+            "Shots Fired",
+            "Circles",
+            "Cry Baby",
+            "Do It on the Tip",
+            "Sugar Baby",
+            "Movie",
+            "Freaky Girls",
+            "Body",
+            "What's New",
+            "Work That",
+            "Intercourse",
+            "Go Crazy",
+            "Don't Rock Me to Sleep",
+            "Outside",
+            "Savage (Remix)",
+            "Girls in the Hood",
+            "Don't Stop"
+        ]
+    },
+    "9": {
+        "Title": "When You See Yourself",
+        "Group": "Kings of Leon",
+        "Genre": "Alternative Rock",
+        "Year": 2021,
+        "Distributor": "RCA Records",
+        "SongsCount": 11,
+        "SongsNames": [
+            "When You See Yourself",
+            "The Bandit",
+            "100,000 People",
+            "Stormy Weather",
+            "A Wave",
+            "Golden Restless Age",
+            "Time in Disguise",
+            "Supermarket",
+            "Claire and Eddie",
+            "Echoing",
+            "Fairytale"
+        ]
+    },
+    "10": {
+        "Title": "Solar Power",
+        "Group": "Lorde",
+        "Genre": "Pop",
+        "Year": 2021,
+        "Distributor": "Universal Music New Zealand Limited",
+        "SongsCount": 12,
+        "SongsNames": [
+            "The Path",
+            "Solar Power",
+            "California",
+            "Stoned at the Nail Salon",
+            "Fallen Fruit",
+            "Secrets from a Girl (Who's Seen It All)",
+            "The Man with the Axe",
+            "Dominoes",
+            "Big Star",
+            "Leader of a New Regime",
+            "Mood Ring",
+            "Oceanic Feeling"
+        ]
+    },
+    "11": {
+        "Title": "Life Support",
+        "Group": "Madison Beer",
+        "Genre": "Pop",
+        "Year": 2021,
+        "Distributor": "Epic Records",
+        "SongsCount": 17,
+        "SongsNames": [
+            "The Beginning",
+            "Good in Goodbye",
+            "Default",
+            "Follow the White Rabbit",
+            "Effortlessly",
+            "Stay Numb and Carry On",
+            "Blue",
+            "Interlude",
+            "Homesick",
+            "Selfish",
+            "Sour Times",
+            "BOYSHIT",
+            "Baby",
+            "Stained Glass",
+            "Emotional Bruises",
+            "Everything Happens for a Reason",
+            "Channel Surfing / The End"
+        ]
+    },
+    "12": {
+        "Title": "Chemical Hearts (Original Motion Picture Soundtrack)",
+        "Group": "Various Artists",
+        "Genre": "Soundtrack",
+        "Year": 2020,
+        "Distributor": "Sony Music Entertainment",
+        "SongsCount": 11,
+        "SongsNames": [
+            "Gracie Abrams - Friend",
+            "Khalid - Up All Night",
+            "Bon Iver - Blood Bank",
+            "Clairo - Alewife",
+            "Tessa Violet - Bored",
+            "Phoebe Bridgers - Smoke Signals",
+            "Years & Years - Eyes Shut",
+            "girl in red - i wanna be your girlfriend",
+            "SYML - Wildfire",
+            "The Japanese House - Something Has to Change",
+            "Cavetown - This Is Home"
+        ]
+    },
+    "13": {
+        "Title": "Love Goes",
+        "Group": "Sam Smith",
+        "Genre": "Pop",
+        "Year": 2020,
+        "Distributor": "Capitol Records",
+        "SongsCount": 17,
+        "SongsNames": [
+            "Young",
+            "Diamonds",
+            "Another One",
+            "My Oasis",
+            "So Serious",
+            "Dance ('Til You Love Someone Else)",
+            "For The Lover That I Lost",
+            "Breaking Hearts",
+            "Forgive Myself",
+            "Love Goes",
+            "Kids Again",
+            "Dancing With A Stranger",
+            "How Do You Sleep?",
+            "To Die For",
+            "I'm Ready",
+            "Fire On Fire",
+            "Promises"
+        ]
+    },
+    "14": {
+        "Title": "Lover",
+        "Group": "Taylor Swift",
+        "Genre": "Pop",
+        "Year": 2019,
+        "Distributor": "Republic Records",
+        "SongsCount": 18,
+        "SongsNames": [
+            "I Forgot That You Existed",
+            "Cruel Summer",
+            "Lover",
+            "The Man",
+            "The Archer",
+            "I Think He Knows",
+            "Miss Americana & The Heartbreak Prince",
+            "Paper Rings",
+            "Cornelia Street",
+            "Death by a Thousand Cuts",
+            "London Boy",
+            "Soon You'll Get Better",
+            "False God",
+            "You Need To Calm Down",
+            "Afterglow",
+            "ME!",
+            "It's Nice To Have A Friend",
+            "Daylight"
+        ]
+    },
+    "15": {
+        "Title": "Fetch The Bolt Cutters",
+        "Group": "Fiona Apple",
+        "Genre": "Alternative Rock",
+        "Year": 2020,
+        "Distributor": "Epic Records",
+        "SongsCount": 13,
+        "SongsNames": [
+            "I Want You To Love Me",
+            "Shameika",
+            "Fetch The Bolt Cutters",
+            "Under The Table",
+            "Relay",
+            "Rack Of His",
+            "Newspaper",
+            "Ladies",
+            "Heavy Balloon",
+            "Cosmonauts",
+            "For Her",
+            "Drumset",
+            "On I Go"
+        ]
+    },
+    "16": {
+        "Title": "hgg",
+        "Group": "ghg",
+        "Genre": "",
+        "Year": 0,
+        "Distributor": "",
+        "SongsCount": 0,
+        "SongsNames": [
+            ""
+        ]
+    },
+    "17": {
+        "Title": "\u0421\u0430\u0442\u0435\u043b\u0456\u0442",
+        "Group": "\u041f\u043e\u043b\u0456\u0432\u0430\u043d\u0456\u0432\u043a\u0430",
+        "Genre": "\u0440\u043e\u043a",
+        "Year": 2018,
+        "Distributor": "",
+        "SongsCount": 0,
+        "SongsNames": [
+            ""
+        ]
+    },
+    "18": {
+        "Title": "\u044f\u0456\u0441",
+        "Group": "\u044f\u0447\u0441",
+        "Genre": "\u044f\u0447\u0441",
+        "Year": 123,
+        "Distributor": "\u044f\u0447\u0441",
+        "SongsCount": 123,
+        "SongsNames": [
+            ""
+        ]
+    }
+}
